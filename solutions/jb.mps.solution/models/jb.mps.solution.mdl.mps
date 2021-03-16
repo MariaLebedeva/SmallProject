@@ -95,5 +95,36 @@
     </node>
     <node concept="3Tm1VV" id="6qeGY2C5hLd" role="1B3o_S" />
   </node>
+  <node concept="312cEu" id="6qeGY2C5M0g">
+    <property role="TrG5h" value="M2" />
+    <node concept="2YIFZL" id="6qeGY2C5M0C" role="jymVt">
+      <property role="TrG5h" value="main" />
+      <node concept="37vLTG" id="6qeGY2C5M0D" role="3clF46">
+        <property role="TrG5h" value="args" />
+        <node concept="10Q1$e" id="6qeGY2C5M0E" role="1tU5fm">
+          <node concept="17QB3L" id="6qeGY2C5M0F" role="10Q1$1" />
+        </node>
+      </node>
+      <node concept="3cqZAl" id="6qeGY2C5M0G" role="3clF45" />
+      <node concept="3Tm1VV" id="6qeGY2C5M0H" role="1B3o_S" />
+      <node concept="3clFbS" id="6qeGY2C5M0I" role="3clF47">
+        <node concept="3clFbF" id="6qeGY2C5M2i" role="3cqZAp">
+          <node concept="2OqwBi" id="6qeGY2C5M2f" role="3clFbG">
+            <node concept="10M0yZ" id="6qeGY2C5M2g" role="2Oq$k0">
+              <ref role="1PxDUh" to="wyt6:~System" resolve="System" />
+              <ref role="3cqZAo" to="wyt6:~System.out" resolve="out" />
+            </node>
+            <node concept="liA8E" id="6qeGY2C5M2h" role="2OqNvi">
+              <ref role="37wK5l" to="guwi:~PrintStream.println(java.lang.String)" resolve="println" />
+              <node concept="Xl_RD" id="6qeGY2C5M3i" role="37wK5m">
+                <property role="Xl_RC" value="M2" />
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node concept="3Tm1VV" id="6qeGY2C5M0h" role="1B3o_S" />
+  </node>
 </model>
 

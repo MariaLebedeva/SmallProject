@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dependenciesRoot>
+  <dependency className="jb.mps.solution.mdl.M2">
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.lang.System" />
+  </dependency>
   <dependency className="jb.mps.solution.mdl.Main">
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="java.lang.System" />
